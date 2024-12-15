@@ -13,7 +13,7 @@ interface Message {
 
 const initialMessages = [
   {
-    text: "Hello! I'm your AI consultant from Silent Logic. I'm here to understand your business needs and help identify automation opportunities. Would you like to start our discovery call?",
+    text: "Hello! I'm your AI consultant from Silent Logic AI. I'm here to understand your business needs and help identify automation opportunities. Would you like to start our discovery call?",
     type: 'ai' as const,
     timestamp: new Date()
   }
