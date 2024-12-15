@@ -70,7 +70,7 @@ export default function Contact() {
                 <Mail className="h-6 w-6 text-[#008080] mr-4" />
                 <div>
                   <h3 className="font-semibold text-[#333333]">Email</h3>
-                  <p className="text-gray-600">info@silentlogicai.com</p>
+                  <p className="text-gray-600">info@silentIndustries.com.au</p>
                 </div>
               </div>
               
