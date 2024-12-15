@@ -67,7 +67,7 @@ export default function TermsOfService() {
 
           <h2>11. Contact Information</h2>
           <p>
-            For any questions about these Terms of Service, please contact us at legal@silentlogicai.com.
+            For any questions about these Terms of Service, please contact us at info@silentindustires.com.au.
           </p>
         </div>
       </div>
